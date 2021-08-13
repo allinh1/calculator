@@ -1,6 +1,7 @@
 # calculator
 
 Dom-Calculator
+
 Use DOM Manipulation to build a basic calculator using the provided HTML and CSS.
 
 More specifically, the app should allow a user to do the following.
