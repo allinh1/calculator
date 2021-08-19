@@ -13,3 +13,5 @@ Click the clear button to remove all the text from the screen.
 Click the equals button to evaluate the arithmetic expression shown in the screen.
 
 If the expression is in format operand(+|-|x|÷)operand, evaluate the expression and update the screen with the result.
+
+Viewable - https://allinh1.github.io/calculator/
