@@ -1,5 +1,7 @@
 # Calculator
 
+Viewable @ https://allinh1.github.io/calculator/
+
 Dom-Calculator
 
 Use DOM Manipulation to build a basic calculator using the provided HTML and CSS.
@@ -14,4 +16,3 @@ Click the equals button to evaluate the arithmetic expression shown in the scree
 
 If the expression is in format operand(+|-|x|÷)operand, evaluate the expression and update the screen with the result.
 
-Viewable - https://allinh1.github.io/calculator/
